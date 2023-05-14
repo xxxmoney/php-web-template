@@ -7,12 +7,14 @@
     <title>VIMA</title>
 
     <link rel="stylesheet" href="css/style.css">
+
+    <script src="https://cdn.tailwindcss.com"></script>
 </head>
-<body>
+<body class="p-5 m-0">
     <header>
 
     </header>    
 
-    <main class="">
+    <main class="max-w-lg m-auto">
 
     
